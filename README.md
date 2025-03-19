@@ -51,7 +51,7 @@ Antes de começar, certifique-se de ter instalado:
 
 ```bash
 # Clone este repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/amandoca/rocketseat-ignite-feed.git
 
 # Acesse a pasta do projeto
 cd ignite-feed
