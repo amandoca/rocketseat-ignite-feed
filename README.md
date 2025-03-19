@@ -54,7 +54,7 @@ Antes de começar, certifique-se de ter instalado:
 git clone https://github.com/amandoca/rocketseat-ignite-feed.git
 
 # Acesse a pasta do projeto
-cd ignite-feed
+cd rocketseat-ignite-feed
 
 # Instale as dependências
 npm install 
