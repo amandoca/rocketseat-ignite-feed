@@ -81,3 +81,8 @@ yarn dev
 npm run lint
 ```
 🔥 Pronto para explorar o Ignite Feed? 
+
+## 📸 Screenshot
+
+![localhost_3001_history (1)](https://github.com/user-attachments/assets/aa3e2ea7-da66-40ee-805c-13bca0fab5a3)
+
